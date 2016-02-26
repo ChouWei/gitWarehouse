@@ -1,4 +1,5 @@
 Hello Git!!
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-I change again2
+Git is a mutable index called stage
+I change again3
