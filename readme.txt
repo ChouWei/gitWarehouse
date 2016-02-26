@@ -1,5 +1,4 @@
 Hello Git!!
-I change here
-Git is a version control system.
-Git is a free software.
-I change again
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+I change again2
